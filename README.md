@@ -1,2 +1,2 @@
 # Sample
-A sample repo 
+A sample repo learning git hub 
