@@ -1,6 +1,4 @@
 # Sample
 A sample repo learning git hub 
 
-this is my first commit 
-
-Happy learning
+Happy learning --2023
