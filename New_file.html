@@ -8,8 +8,19 @@
     <h1>webpage design 1  </h1>
     <p>this is a webpage </p>
     
-    <input type="number" name="Age"/>
-    <input type="button" value="Click me"/>
-    </div>
+<input type="number" name="Age"/>
+<button id="b1">Enter</button>
+<script>
+    var b = document.getElementById("b1");
+
+    function handleClick() {
+        alert("Button clicked!");
+    }
+
+    b.onclick = handleClick;
+    
+</script>
+
+</div>
 </body>
 </html>
